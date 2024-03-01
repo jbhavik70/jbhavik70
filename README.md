@@ -2,6 +2,9 @@
 
 ### I am bhavik chopra
 
+![image](https://github.com/jbhavik70/jbhavik70/assets/65386855/7c1565bf-54f7-45fa-b52a-81492c05fd6c)
+
+
 <!--
 **jbhavik70/jbhavik70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
