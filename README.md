@@ -1,6 +1,8 @@
 # Hi there, I'm Bhavik Chopra! 👋
 
-### 🌟 About Me
+---
+
+## 🌟 About Me
 I'm a **Data Scientist** with 3+ years of experience in predictive analytics, machine learning, and data visualization. Passionate about building impactful solutions, I specialize in:
 
 - 🧠 **Artificial Intelligence (AI)** and **Natural Language Processing (NLP)**
@@ -12,53 +14,64 @@ I also serve as an **Organizer and Chief of Staff** for **Google Developer Group
 
 ---
 
-### 💼 Professional Experience
-- **Data Analyst @ Metropolitan Transportation Authority (MTA)**
-  - 📈 Designed and implemented automated reporting systems using Power BI, reducing manual effort by 60%.
-  - 📋 Developed and updated SOPs, improving compliance by 30%.
+## 💼 Professional Experience
 
-- **Data Science Intern @ All IT Solutions**
-  - 🔍 Built models using CRF, BiLSTM, and Word2Vec, increasing recommendation accuracy by 30%.
-  - 📊 Crafted visualizations in Tableau, enhancing decision-making by 15%.
+### 🚉 **Data Analyst @ Metropolitan Transportation Authority (MTA)**
+- 📈 Designed and implemented automated reporting systems using Power BI, reducing manual effort by **60%**.
+- 📋 Developed and updated SOPs, improving compliance by **30%**.
 
-- **Python Developer @ Maxgen Technologies**
-  - 🖥️ Developed RESTful APIs using Flask and Django, improving data retrieval efficiency by 40%.
+### 💻 **Data Science Intern @ All IT Solutions**
+- 🔍 Built models using CRF, BiLSTM, and Word2Vec, increasing recommendation accuracy by **30%**.
+- 📊 Crafted visualizations in Tableau, enhancing decision-making by **15%**.
 
----
-
-### 🏆 Notable Projects
-- **MoodSphere: Music Recommender with Mood Detection** 🎵
-  - Achieved 72% emotion detection accuracy using CNNs and TensorFlow.
-  - Deployed scalable backends on **Google Cloud Platform**.
-
-- **Diabetes Prediction Modelling** 🩺
-  - Implemented Logistic Regression and Random Forest models for early diabetes detection.
+### 🖥️ **Python Developer @ Maxgen Technologies**
+- 🌐 Developed RESTful APIs using Flask and Django, improving data retrieval efficiency by **40%**.
 
 ---
 
-### 🎤 Speaking & Volunteering
-- **Google DevFest NYC 2024**: Organized sessions with 800+ attendees, launching the latest **Gemini** model.
+## 🏆 Notable Projects
+
+### 🎵 **MoodSphere: Music Recommender with Mood Detection**
+- Achieved **72% emotion detection accuracy** using CNNs and TensorFlow.
+- Deployed scalable backends on **Google Cloud Platform**.
+
+### 🩺 **Diabetes Prediction Modelling**
+- Implemented Logistic Regression and Random Forest models for early diabetes detection.
+
+### 📈 **Deep Learning Based Algorithmic Trading Strategy**
+- Developed a trading strategy with **MLP Classifier** and **Time Series Analysis**, outperforming buy-and-hold by **9.4%** using Python and TA-Lib.
+
+---
+
+## 🎤 Speaking & Volunteering
+- **Google DevFest NYC 2024**: Organized sessions with **800+ attendees**, launching the latest **Gemini** model.
 - **Hackathon Judge @ GDG NYC**: Evaluated innovative projects using **Vertex AI** and **Gemini APIs**.
-- **Speaker**: Delivered sessions on AI and automation, including "Automating Infrastructure on GCP with Terraform."
+- **Speaker**: Delivered sessions on AI and automation, including *"Automating Infrastructure on GCP with Terraform"*.
 
 ---
 
-### 📜 Certifications
-- **#GoogleCloudReady**: Implement Load Balancing on Compute Engine
-- **Data Science Virtual Experience Program** by British Airways
+## 📜 Certifications
+- 🏅 **#GoogleCloudReady**: Implement Load Balancing on Compute Engine
+- 📈 **Data Science Virtual Experience Program** by British Airways
 
 ---
 
-### 📚 Education
-- **Master of Science in Computer Science** @ Pace University 🎓
-  - GPA: 3.8 | Focus: Data Science, AI, and Parallel Computing
-
-- **Bachelor of Engineering in Computer Engineering** @ Gujarat Technological University 🎓
-  - CGPA: 9.07 | Focus: Data Structures, DBMS, and Machine Learning
+## 📚 Education
+- 🎓 **Master of Science in Computer Science** @ Pace University
+  - GPA: **3.8** | Focus: Data Science, AI, and Parallel Computing
+- 🎓 **Bachelor of Engineering in Computer Engineering** @ Gujarat Technological University
+  - CGPA: **9.07** | Focus: Data Structures, DBMS, and Machine Learning
 
 ---
 
-### 🌐 Let's Connect!
+## 🛠️ Skills
+- **Programming:** Python, SQL, R, Django
+- **Tools & Platforms:** Google Cloud, Power BI, Tableau, TensorFlow
+- **Soft Skills:** Leadership, Public Speaking, Collaboration
+
+---
+
+## 🌐 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jbhavik70)
 - 🔗 [GitHub](https://github.com/jbhavik70)
 - 🏆 [Kaggle](https://www.kaggle.com/jbhavik70)
@@ -66,14 +79,7 @@ I also serve as an **Organizer and Chief of Staff** for **Google Developer Group
 
 ---
 
-### 🛠️ Skills
-- **Programming:** Python, SQL, R, Django
-- **Tools & Platforms:** Google Cloud, Power BI, Tableau, TensorFlow
-- **Soft Skills:** Leadership, Public Speaking, Collaboration
-
----
-
-### 💡 Fun Fact
+## 💡 Fun Fact
 I believe in learning by sharing and have mentored peers globally as part of **The Circle of Legends**! 🌍
 
 ---
