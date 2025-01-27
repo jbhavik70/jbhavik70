@@ -16,7 +16,7 @@ I also serve as an **Organizer and Chief of Staff** for **Google Developer Group
 
 ## 💼 Professional Experience
 
-### 🚉 **Data Analyst @ Metropolitan Transportation Authority (MTA)**
+### 🚉 **Data Analyst Transit Manager @ Metropolitan Transportation Authority (MTA)**
 - 📈 Designed and implemented automated reporting systems using Power BI, reducing manual effort by **60%**.
 - 📋 Developed and updated SOPs, improving compliance by **30%**.
 
